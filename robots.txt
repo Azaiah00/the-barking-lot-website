@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://thebarkinglot.info/sitemap.xml
+Sitemap: https://the-barking-lot-website.netlify.app/sitemap.xml

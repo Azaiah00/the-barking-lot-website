@@ -9,7 +9,7 @@
 - Neighborhood: on North Belmont Avenue in the Museum District, Richmond
 - Phone: (804) 358-4038
 - Email: thebarkinglotinrichva@verizon.net
-- Website: https://thebarkinglot.info/
+- Website: https://the-barking-lot-website.netlify.app/
 - Directions: https://www.google.com/maps/dir/?api=1&destination=606+N+Belmont+Ave+Richmond+VA+23221
 - Parking: street parking on Belmont Avenue
 
@@ -32,7 +32,7 @@ Prices are not listed online. Call (804) 358-4038 for a quote.
 
 ## How to book
 - Call (804) 358-4038, or
-- Send an appointment request at https://thebarkinglot.info/visit.html#request (a request, not a confirmed booking; the shop calls back to confirm a time)
+- Send an appointment request at https://the-barking-lot-website.netlify.app/visit.html#request (a request, not a confirmed booking; the shop calls back to confirm a time)
 
 ## Payment
 Cash, Visa, MasterCard, debit cards and checks.
@@ -57,8 +57,8 @@ Supports animal rescue, including Richmond SPCA, Richmond Animal League, Richmon
 - Do you need vaccination records? Ask the shop about vaccination requirements when you book.
 
 ## Pages
-- Home: https://thebarkinglot.info/
-- Services: https://thebarkinglot.info/services.html
-- The Regulars (portrait gallery by Steve Boschen): https://thebarkinglot.info/regulars.html
-- About: https://thebarkinglot.info/about.html
-- Visit and request an appointment: https://thebarkinglot.info/visit.html
+- Home: https://the-barking-lot-website.netlify.app/
+- Services: https://the-barking-lot-website.netlify.app/services.html
+- The Regulars (portrait gallery by Steve Boschen): https://the-barking-lot-website.netlify.app/regulars.html
+- About: https://the-barking-lot-website.netlify.app/about.html
+- Visit and request an appointment: https://the-barking-lot-website.netlify.app/visit.html
